@@ -31,7 +31,7 @@
             <div class="box category-box">
                 <h2 style="text-align: center;">BMI Categories</h2>
                 <ul class="bmi-categories">
-                    <li><strong>Underweight:</strong> BMI less than 18.5</li>
+                    <li><strong>Underweigh:</strong> BMI less than 18.5</li>
                     <li><strong>Normal weight:</strong> BMI 18.5 to 24.9</li>
                     <li><strong>Overweight:</strong> BMI 25.0 to 29.9</li>
                     <li><strong>Obesity:</strong>
